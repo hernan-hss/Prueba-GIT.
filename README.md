@@ -2,8 +2,7 @@
 PRUEBAS DE GIT Y GITHUB
 
 ## prueba de escritura 
-'''codio
-<?php 
-phpinfo();?>'''
-
+``` php
+<? php phpinfo ();?>
+``
 ## descripcion
