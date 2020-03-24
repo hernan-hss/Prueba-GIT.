@@ -3,6 +3,6 @@ PRUEBAS DE GIT Y GITHUB
 
 ## prueba de escritura 
 ``` php
-<? php phpinfo ();?>
+<?php phpinfo ();?>
 ``
 ## descripcion
